@@ -167,7 +167,7 @@ The current implementation focuses on static alphabet images. It does not recogn
 ```text
 ml-ASLSignLanguageClassification/
 ├── project.ipynb
-├── asl/
+├── asl.zip/ <-- extract this
 │   ├── a/
 │   │   ├── hand_a (1).jpeg
 │   │   ├── hand_a (2).jpeg
